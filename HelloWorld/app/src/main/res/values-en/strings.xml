@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YourApplication</string>
+    <string name="label_name">Family Name</string>
+    <string name="label_first_name">First Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_skill">Competencies</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="button_submit">Submit</string>
+    <string name="info_validated">Information validated</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="confirm_info">Do you want to continue?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_message_empty_fields">Please fill out the form completely.</string>
+</resources>

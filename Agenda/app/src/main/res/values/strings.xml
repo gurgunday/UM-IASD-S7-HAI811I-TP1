@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="title_add_event">Add Event</string>
+    <string name="hint_event_date">Event Date</string>
+    <string name="hint_event_description">Event Description</string>
+    <string name="select_date">Select Date</string>
+</resources>
